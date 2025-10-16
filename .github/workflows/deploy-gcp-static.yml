@@ -11,7 +11,7 @@ permissions:
 
 env:
   PROJECT_ID: luma-idp
-  BUCKET_NAME: nttdata-store-demo
+  BUCKET_NAME: comunidad-store-demo
 
 jobs:
   deploy:
